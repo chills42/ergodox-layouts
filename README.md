@@ -7,6 +7,9 @@ My Config
 ----------
 https://www.massdrop.com/ext/ergodox/?referer=ULQ5CB&hash=55ca707bacb074be36cc09250947af07
 
+Other Configs
+--------------
+
 Notes | Link | Credits
 ------|------|-----------
 ? | https://www.massdrop.com/ext/ergodox/?referer=8NKMPV&hash=90050759c45b2f144b0eae83ba1d5e94 | http://deskthority.net/squarefrog-u5352/
