@@ -5,7 +5,7 @@ A collection of ergodox layouts
 
 My Config
 ----------
-https://www.massdrop.com/ext/ergodox/?referer=ULQ5CB&hash=55ca707bacb074be36cc09250947af07
+https://www.massdrop.com/ext/ergodox/?referer=ULQ5CB&hash=a1126ca09f8c684f7d044b717104268a
 
 Other Configs
 --------------
